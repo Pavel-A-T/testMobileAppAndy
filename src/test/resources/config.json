@@ -1,0 +1,8 @@
+{
+  "pathApp": "/src/test/resources/app/andy.apk",
+  "platformName": "Android",
+  "deviceName": "emulator-5554",
+  "appPackage": "com.pyankoff.andy",
+  "appActivity": "com.pyankoff.andy.MainActivity",
+  "url": "http://localhost:4723/wd/hub"
+}
